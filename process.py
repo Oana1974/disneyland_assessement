@@ -1,5 +1,5 @@
 # process.py
-# All data work: load CSV, filter, count, average, etc.
+# Data work: load CSV, filter, count, average, etc.
 
 import csv
 from collections import defaultdict
