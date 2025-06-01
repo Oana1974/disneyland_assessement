@@ -1,4 +1,4 @@
-# visual.py
+# This is visual.py
 # Draws charts with matplotlib
 
 import matplotlib.pyplot as plt
