@@ -1,5 +1,5 @@
 # The program run from main.py
-# Let`start the program, loads data, shows menus and acts on your choices.
+# Start the program, loads data, shows menus and acts on your choices.
 #
 import tui
 import process
