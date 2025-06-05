@@ -1,4 +1,4 @@
-# The program run from main.py
+# This program run from main.py
 # Start the program, loads data, shows menus and acts on your choices.
 #
 import tui
