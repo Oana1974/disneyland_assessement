@@ -1,4 +1,4 @@
-# This is process.py
+# This is the process.py
 # Data work: load CSV, filter, count, average, etc.
 
 import csv
