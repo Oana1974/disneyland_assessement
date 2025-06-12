@@ -1,5 +1,5 @@
 # This is visual.py
-# Draws charts with matplotlib
+# It draws charts with matplotlib
 
 import matplotlib.pyplot as plt
 from calendar import month_abbr
